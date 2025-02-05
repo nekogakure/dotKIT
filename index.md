@@ -2,6 +2,7 @@
 title: Home
 layout: home
 ---
+![icon](assets/img/icon.svg)
 ## ABOUT
 .KITは[Scratch](https://scratch.mit.edu)でのプロジェクトの拡張性を保つためのライブラリです。
 
