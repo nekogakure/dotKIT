@@ -4,3 +4,9 @@ theme: just-the-docs
 
 url: https://nekogakure.github.io/dotKIT/
 favicon_ico: "/assets/img/favicon.ico"
+
+aux_links:
+  "Scratch":
+    - "https://"
+
+aux_links_new_tab: true
