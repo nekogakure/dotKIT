@@ -4,7 +4,7 @@ layout: home
 ---
 ![icon](assets/img/icon.svg)
 ## ABOUT
-.KITは[Scratch](https://scratch.mit.edu)でGitのようなものを使えるソフトウェアです。
+.KITは[Scratch](https://scratch.mit.edu)でGitのようなバージョン管理ができるソフトウェアです。
 
 開発は@sei6seiおよび有識者によって進められています。
 
