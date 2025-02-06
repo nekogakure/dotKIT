@@ -4,16 +4,15 @@ layout: home
 ---
 ![icon](assets/img/icon.svg)
 ## ABOUT
-.KITは[Scratch](https://scratch.mit.edu)でのプロジェクトの拡張性を保つためのライブラリです。
-
-これを使うことでプロジェクトに簡単に外部のコードを組み込めるようになります。
+.KITは[Scratch](https://scratch.mit.edu)でGitのようなものを使えるソフトウェアです。
 
 開発は@sei6seiおよび有識者によって進められています。
 
 ## HOW TO USE
-[.NET最新版](https://scratch.mit.edu/projects/1128886666/)へアクセスし、「中を見る」をおして`master`, `dotKit`の二つをバックパックに入れます。
 
-それ以外で現在サポートされているバージョンは以下のとおりです。
+.KITの[Github](https://github.com/nekogakure/dotKIT/releases)リポジトリから最新版、もしくは使用したいバージョンをダウンロードします。
+
+現在サポートされているバージョンは以下のとおりです。
 
 | VERSION | SUPPORT |
 | ------- | ------- |
