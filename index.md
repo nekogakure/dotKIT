@@ -19,17 +19,17 @@ layout: home
 |   [BETA](https://scratch.mit.edu/projects/1128886666/)  | ◯ : 短期的なサポート |
 
 ## CONTRIBUTION
-プロジェクトをリミックスして公開してください。ただし、過去のバージョンをリミックス、公開されても対応はできません。（長期的なサポートがされるバージョンは除く）
+PullReqestからお願いします。
 
 また、貢献してくださった方はメモとクレジットに名前を書くことになります。ご了承ください。
 
-ドキュメントに変更を加えてくださる場合、Pull Reqestsでお願いします
+ドキュメントに変更を加えてくださる場合もPull Reqestsでお願いします
 
 ## CONTACT
 [@nekogakure](https://scratch.mit.edu/users/nekogakure/)もしくは[@sei6sei](https://scratch.mit.edu/users/sei6sei/)まで連絡お願いします。
 
 ## LISENCE
-Scratchの利用規約に基づきます
+Scratchと同じです
 
 ----
 
